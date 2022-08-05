@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diegomangasco&theme=tokyonight)
+
 [![Diegomangasco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diegomangasco&theme=dark)](https://github.com/davideaimar/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DiegomanGasco&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
