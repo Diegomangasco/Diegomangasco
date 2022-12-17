@@ -6,7 +6,7 @@ My master degree is focused on the main ICT topics (Networking, System and devic
 My favourite topics are Machine learning, Big Data and Cloud computing, especially I'm interested on Data Engineering that can be a role to merge all of these three topics.
 
 ### My skills
-* Python and some of the libraries associated (Numpy, Scipy, Pandas, Matplotlib, PyTorch)
+* Python and some libraries associated (Numpy, Scipy, Pandas, Matplotlib, PyTorch)
 * Apache Spark and Apache Hadoop
 * Networking, Docker and Kubernetes
 * Rustlang
