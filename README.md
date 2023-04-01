@@ -12,6 +12,7 @@ My favourite themes are Machine learning, Big Data Computer Networks and Cloud c
 <a href="https://processing.com" target="_blank"><img align="left" alt="Processing" width="26px" src="https://user-images.githubusercontent.com/46587501/170594839-77fcb240-ef46-4425-9266-8cad8084f801.png"></a>
 <a href="https://isoc.org" target="_blank"><img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></a>
 <a href="https://javascript.com" target="_blank"><img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
+<br>
 
 ## My skills
 * Python with some libraries and frameworks associated (Numpy, Scipy, Pandas, Matplotlib, PyTorch)
