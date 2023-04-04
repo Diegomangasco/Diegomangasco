@@ -5,16 +5,6 @@ My master degree is focused on the main ICT topics (Networking, System and devic
 ## Personal interests
 My favourite themes are Machine learning, Big Data Computer Networks and Cloud computing.
 
-## Languages
-<a href="https://python.org" target="_blank"><img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>
-<a href="https://www.rust-lang.org" target="_blank"><img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></a>
-<a href="https://java.com" target="_blank"><img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"></a>
-<a href="https://processing.com" target="_blank"><img align="left" alt="Processing" width="26px" src="https://user-images.githubusercontent.com/46587501/170594839-77fcb240-ef46-4425-9266-8cad8084f801.png"></a>
-<a href="https://isocpp.org" target="_blank"><img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></a>
-<a href="https://isoc.org" target="_blank"><img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></a>
-<a href="https://javascript.com" target="_blank"><img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
-<br>
-
 ## My skills
 * Python with some libraries and frameworks associated (Numpy, Scipy, Pandas, Matplotlib, PyTorch)
 * Apache Spark and Apache Hadoop
@@ -25,6 +15,25 @@ My favourite themes are Machine learning, Big Data Computer Networks and Cloud c
 * Java
 * Javascript and some frameworks associated (Node, React, Svelte)
 * SQL and NoSQL (in particular MongoDB)
+
+## Languages
+<a href="https://python.org" target="_blank"><img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>
+<a href="https://www.rust-lang.org" target="_blank"><img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></a>
+<a href="https://java.com" target="_blank"><img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"></a>
+<a href="https://processing.com" target="_blank"><img align="left" alt="Processing" width="26px" src="https://user-images.githubusercontent.com/46587501/170594839-77fcb240-ef46-4425-9266-8cad8084f801.png"></a>
+<a href="https://isocpp.org" target="_blank"><img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></a>
+<a href="https://www.iso-9899.info/wiki/The_Standard" target="_blank"><img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></a>
+<a href="https://javascript.com" target="_blank"><img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
+<br>
+
+## Technologies
+<a href="https://numpy.org" target="_blank"><img align="left" alt="Numpy" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/numpy/numpy.png"></a>
+<a href="https://scipy.org" target="_blank"><img align="left" alt="Scipy" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scipy/scipy.png"></a>
+<a href="https://scikit-learn.org" target="_blank"><img align="left" alt="Scikit-learn" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></a>
+<a href="https://pytorch.org" target="_blank"><img align="left" alt="Pytorch" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pytorch/pytorch.png"></a>
+<a href="https://docker.com" target="_blank"><img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></a>
+<a href="https://kubernetes.io" target="_blank"><img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></a>
+
 
 [![Diegomangasco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diegomangasco&theme=dark)](https://github.com/Diegomangasco/github-readme-stats)
 
