@@ -37,6 +37,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"></a>
 <a href="https://docker.com" target="_blank"><img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></a>
 <a href="https://kubernetes.io" target="_blank"><img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></a>
 
+<br>
 
 [![Diegomangasco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diegomangasco&theme=dark)](https://github.com/Diegomangasco/github-readme-stats)
 
