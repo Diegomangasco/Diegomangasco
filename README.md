@@ -3,7 +3,7 @@ I am a Computer Engineering student at [Politecnico di Torino](https://www.polit
 My master degree is focused on the main ICT topics (Networking, System and device programming, Web applications, Databases, Computer Architecture, Cloud computing, etc...) and on Artificial Intelligence and Data Analysis.
 
 ## Personal interests
-My favourite themes are Machine learning, Big Data Computer Networks and Cloud computing.
+My favourite themes are Machine learning, Big Data, Computer Networks and Cloud computing.
 
 ## My skills
 * Python with some libraries and frameworks associated (Numpy, Scipy, Pandas, Matplotlib, PyTorch)
