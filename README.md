@@ -16,30 +16,99 @@ My favourite themes are Machine learning, Big Data, Computer Networks and Cloud 
 * Javascript and some frameworks associated (Node, React, Svelte)
 * SQL and NoSQL (in particular MongoDB)
 
-## Languages
-<a href="https://python.org" target="_blank"><img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>
-<a href="https://www.rust-lang.org" target="_blank"><img align="left" alt="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></a>
-<a href="https://www.go-lang.org" target="_blank"><img align="left" alt="Go" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></a>
-<a href="https://java.com" target="_blank"><img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"></a>
-<a href="https://processing.com" target="_blank"><img align="left" alt="Processing" width="40px" src="https://user-images.githubusercontent.com/46587501/170594839-77fcb240-ef46-4425-9266-8cad8084f801.png"></a>
-<a href="https://isocpp.org" target="_blank"><img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></a>
-<a href="https://www.iso-9899.info/wiki/The_Standard" target="_blank"><img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></a>
-<a href="https://javascript.com" target="_blank"><img align="left" alt="Javascript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
-<br>
+## Languages and Tools
 
-## Technologies
-<a href="https://numpy.org" target="_blank"><img align="left" alt="Numpy" width="60px" 
-src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"></a>
-<a href="https://scipy.org" target="_blank"><img align="left" alt="Scipy" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg"></a>
-<a href="https://scikit-learn.org" target="_blank"><img align="left" alt="Scikit-learn" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></a>
-<a href="https://pytorch.org" target="_blank"><img align="left" alt="Pytorch" width="60px" 
-src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"></a>
-<a href="https://docker.com" target="_blank"><img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></a>
-<a href="https://kubernetes.io" target="_blank"><img align="left" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></a>
-<br>
-<br>
-<br>
+<p align="left"> 
+    
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>   
+  </a> 
+  
+  <a>
+    <img src="https://thewizardsgame.com/wp-content/uploads/2018/04/Nvidia_logo.png" height="40" width="40"/>
+  </a>
+  
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  
+  <a>
+   <img height="40" width="40" alt="qiskit" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" />
+  </a>
+  
+  <a href="https://scikit-learn.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://azure.microsoft.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="35" height="35"/> 
+  </a> 
 
+  <a href="https://kubernetes.io/" target="_blank">
+    <img height="35" width="35" alt="kubernetes" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" />
+   </a>  
+
+ <a href="https://hadoop.apache.org/" target="_blank"> 
+    <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/hadoop/hadoop.svg" alt="hadoop" width="40" height="40"/> 
+  </a> 
+  
+ <a href="https://spark.apache.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="40"/> 
+  </a> 
+
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="60" height="40"/>
+  </a>
+  <a>
+    <img src="icons/html5.svg" height="40" width="40" alt="HTML" width="40px" height="40" />
+ </a>
+  
+  <a>
+     <img height="40" width="40" alt="CSS" width="26px" src="icons/css3.svg" />
+ </a>
+ 
+ <a>
+   <img height="40" width="40" alt="JavaScript" width="26px" src="icons/js.svg" />
+ </a>
+  
+   <a href="https://www.mongodb.com/" target="_blank">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a> 
+  
+ <a href="https://nodejs.org" target="_blank"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+ </a> 
+  <a href="https://pytorch.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.tensorflow.org" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://pandas.pydata.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/> 
+  </a> 
+  
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img height="40" width="40" alt="Rust" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" />
+  </a> 
+  
+  </p>
 [![Diegomangasco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diegomangasco&theme=dark)](https://github.com/Diegomangasco/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DiegomanGasco&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
