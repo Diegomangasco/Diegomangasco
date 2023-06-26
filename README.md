@@ -1,9 +1,9 @@
 ## About me
 I am a Computer Engineering student at [Politecnico di Torino](https://www.polito.it/).
-My master degree is focused on the main ICT topics (Networking, System and device programming, Web applications, Databases, Computer Architecture, Cloud computing, etc...) and on Artificial Intelligence and Data Analysis.
+My master degree is focused on the main ICT topics (Computer Networks, System and device programming, Web applications, Databases, Computer Architecture, Cloud computing) and on Artificial Intelligence and Data Analysis.
 
 ## Personal interests
-My favourite themes are Machine learning, Big Data, Computer Networks and Cloud computing.
+My favourite themes are Machine Learning, Big Data, Computer Networks and Cloud Computing.
 
 ## My skills
 * Python with some libraries and frameworks associated (Numpy, Scipy, Pandas, Matplotlib, PyTorch)
@@ -73,15 +73,7 @@ My favourite themes are Machine learning, Big Data, Computer Networks and Cloud 
   </a> 
   <a>
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="60" height="40"/>
-  </a>
-  <a>
-    <img src="icons/html5.svg" height="40" width="40" alt="HTML" width="40px" height="40" />
- </a>
-  
-  <a>
-     <img height="40" width="40" alt="CSS" width="26px" src="icons/css3.svg" />
- </a>
- 
+  </a> 
  <a>
    <img height="40" width="40" alt="JavaScript" width="26px" src="icons/js.svg" />
  </a>
@@ -109,6 +101,7 @@ My favourite themes are Machine learning, Big Data, Computer Networks and Cloud 
   </a> 
   
   </p>
+  
 [![Diegomangasco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diegomangasco&theme=dark)](https://github.com/Diegomangasco/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DiegomanGasco&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
