@@ -74,7 +74,7 @@ My favourite themes are Machine Learning, Big Data, Computer Networks and Cloud 
   <a>
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="60" height="40"/>
   </a> 
- <a>
+ <a href="https://www.javascript.com" target="_blank">
    <img height="40" width="40" alt="JavaScript" width="26px" src="icons/js.svg" />
  </a>
   
