@@ -7,10 +7,10 @@ My favourite themes are Machine Learning, Big Data, Computer Networks and Cloud 
 
 ## My skills
 * Python with some libraries and frameworks associated (Numpy, Scipy, Pandas, Matplotlib, PyTorch)
+* Go
+* Rust
 * Apache Spark and Apache Hadoop
 * Docker and Kubernetes
-* Rustlang
-* Golang
 * C and C++
 * Java
 * Javascript and some frameworks associated (Node, React, Svelte)
@@ -95,7 +95,9 @@ My favourite themes are Machine Learning, Big Data, Computer Networks and Cloud 
   <a href="https://www.rust-lang.org/" target="_blank">
     <img height="40" width="40" alt="Rust" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" />
   </a> 
-  
+  <a href="[https://www.rust-lang.org/](https://go.dev/)" target="_blank">
+    <img height="40" width="40" alt="Go" src=" [https://go.dev/](https://go.dev/images/go-logo-white.svg)" />
+  </a>   
   </p>
   
 [![Diegomangasco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diegomangasco&theme=dark)](https://github.com/Diegomangasco/github-readme-stats)
