@@ -1,10 +1,10 @@
 ## About me
-Currently PhD Student at the Department of Computer and Control Engineering at [Politecnico di Torino](https://www.polito.it/).
-I obtained my Bachelor and Master degrees both in Computer Engineering at Politecnico di Torino.
-I live in Carrù (province of Cuneo) and work in Torino.
+Currently PhD Student at the Department of Computer and Control Engineering at [Politecnico di Torino](https://www.polito.it/).  
+I obtained my Bachelor and Master degrees both in Computer Engineering at Politecnico di Torino.  
+I live in Carrù (province of Cuneo) and work in Torino.  
 
 ## Personal interests
-My main academic interests and skills focus on ICT topics: Computer Networks, System and device programming, Artificial Intelligence, Web applications, Databases, Computer Architecture and Cloud computing.
+My main academic interests and skills focus on ICT topics: Computer Networks, System and device programming, Artificial Intelligence, Web applications, Databases, Computer Architecture and Cloud computing.  
 In my free time I love playing guitar, reading books, hiking and skiing. 
 
 ## Languages and tools
