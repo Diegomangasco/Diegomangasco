@@ -1,20 +1,24 @@
 ## About me
-I am a Computer Engineering student at [Politecnico di Torino](https://www.polito.it/).
-My master degree is focused on the main ICT topics (Computer Networks, System and device programming, Web applications, Databases, Computer Architecture, Cloud computing) and on Artificial Intelligence and Data Analysis.
+Currently PhD Student at the Department of Computer and Control Engineering at [Politecnico di Torino](https://www.polito.it/).
+I obtained my Bachelor and Master degrees both in Computer Engineering at Politecnico di Torino.
+I live in Carrù (province of Cuneo) and work in Torino.
 
 ## Personal interests
-My favourite themes are Machine Learning, Big Data, Computer Networks and Cloud Computing.
+My main academic interests and skills focus on ICT topics: Computer Networks, System and device programming, Artificial Intelligence, Web applications, Databases, Computer Architecture and Cloud computing.
+In my free time I love playing guitar, reading books, hiking and skiing. 
 
 ## Languages and tools
-* Python with some libraries and frameworks associated (Numpy, Scipy, Pandas, Matplotlib, PyTorch)
+* Python
+  * Numpy, Scipy, Pandas, Pytorch, Matplotlib
+* C/C++
 * Go
 * Rust
 * Apache Spark and Apache Hadoop
 * Docker and Kubernetes
-* C and C++
 * Java
-* Javascript and some frameworks associated (Node, React, Svelte)
-* SQL and NoSQL (in particular MongoDB)
+* Javascript
+  * Node, React, Svelte
+* SQL and NoSQL
   
 [![Diegomangasco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diegomangasco&theme=dark)](https://github.com/Diegomangasco/github-readme-stats)
 
