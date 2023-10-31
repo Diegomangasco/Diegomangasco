@@ -14,11 +14,15 @@ In my free time I love playing guitar, reading books, hiking and skiing.
 * Go
 * Rust
 * Apache Spark and Apache Hadoop
-* Docker and Kubernetes
+* Docker
+* Kubernetes
 * Java
 * Javascript
   * Node, React, Svelte
-* SQL and NoSQL
+* SQL
+  * MySQL 
+* NoSQL
+  * MongoDB
   
 [![Diegomangasco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diegomangasco&theme=dark)](https://github.com/Diegomangasco/github-readme-stats)
 
