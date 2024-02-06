@@ -4,25 +4,37 @@ I obtained my Bachelor and Master degrees both in Computer Engineering at Polite
 I live in Carrù (province of Cuneo) and work in Torino.  
 
 ## Personal interests
-My main academic interests and skills focus on ICT topics: Computer Networks, System and device programming, Artificial Intelligence, Web applications, Databases, Computer Architecture and Cloud computing.  
+My main academic interests are related to the automotive field, in particular my current work is focused on V2X protocols and on Machine Learning for vehicles cooperation.   
 In my free time I love playing guitar, reading books, hiking and skiing. 
 
-## Languages and tools
+## Highlighted Skills
+* Machine Learning
+* Neural Networks
+* V2X
 * Python
   * Numpy, Scipy, Pandas, Pytorch, Matplotlib
 * C/C++
-* Go
-* Rust
-* Apache Spark and Apache Hadoop
-* Docker
-* Kubernetes
-* Java
-* Javascript
-  * Node, React, Svelte
+* SUMO
 * SQL
-  * MySQL 
 * NoSQL
-  * MongoDB
+
+## Main Projects
+
+<a href="https://github.com/Diegomangasco/ms-van3t" style="margin: 5px">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diegomangasco&repo=ms-van3t&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=true" />
+</a>
+<br/>
+<br/>
+<a href="https://github.com/Diegomangasco/ARGO" style="margin: 5px">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diegomangasco&repo=ARGO&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=true" />
+</a>
+<br/>
+<br/>
+<a href="https://github.com/Diegomangasco/ProbeRequestGenerator" style="margin: 5px">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diegomangasco&repo=ProbeRequestGenerator&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=true" />
+</a>
+
+<!--![Diegomangasco's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diegomangasco&hide=c%2B%2B&exclude_repo=PoliDOTS&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&layout=compact&custom_title=I%20code%20in...)-->
   
 [![Diegomangasco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diegomangasco&theme=dark)](https://github.com/Diegomangasco/github-readme-stats)
 
