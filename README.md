@@ -35,6 +35,11 @@ In my free time I love playing guitar, reading books, hiking and skiing.
 </a>
 <br/>
 <br/>
+<a href="https://github.com/Diegomangasco/Quarto" style="margin: 5px">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diegomangasco&repo=Quarto&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=true" />
+</a>
+<br/>
+<br/>
 
 <!--![Diegomangasco's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diegomangasco&hide=c%2B%2B&exclude_repo=PoliDOTS&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&layout=compact&custom_title=I%20code%20in...)-->
   
