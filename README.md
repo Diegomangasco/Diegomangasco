@@ -25,6 +25,11 @@ In my free time I love playing guitar, reading books, hiking and skiing.
 </a>
 <br/>
 <br/>
+<a href="https://github.com/Diegomangasco/GNSS-Parser-Reproducer" style="margin: 5px">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diegomangasco&repo=GNSS-Parser-Reproducer&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=true" />
+</a>
+<br/>
+<br/>
 <a href="https://github.com/Diegomangasco/ARGO" style="margin: 5px">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diegomangasco&repo=ARGO&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=true" />
 </a>
