@@ -21,12 +21,12 @@ In my free time I love playing guitar, reading books, hiking and skiing.
 ## Main Projects
 
 <a href="https://github.com/Diegomangasco/ms-van3t" style="margin: 5px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diegomangasco&repo=ms-van3t&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diegomangasco&repo=ms-van3t&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false" />
 </a>
 <br/>
 <br/>
 <a href="https://github.com/Diegomangasco/GNSS-Parser-Reproducer" style="margin: 5px">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diegomangasco&repo=TRACE-X&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=true" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diegomangasco&repo=TRACE-X&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false" />
 </a>
 <br/>
 <br/>
