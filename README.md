@@ -1,24 +1,28 @@
 ## About me
 Currently PhD Student at the Department of Computer and Control Engineering at [Politecnico di Torino](https://www.polito.it/).  
-I obtained my Bachelor and Master degrees both in Computer Engineering at Politecnico di Torino.  
-I live in Carrù (province of Cuneo) and work in Torino.  
+I obtained my Bachelor's and Master's degrees in Computer Engineering at Politecnico di Torino.  
+I live in Carrù (province of Cuneo) and work in Torino. 
 
 ## Personal interests
-My main academic interests are related to the automotive field, in particular my current work is focused on V2X protocols and on Machine Learning for vehicles cooperation.   
-In my free time I love playing guitar, reading books, hiking and skiing. 
+My main academic research is related to the automotive field. 
+In particular, my current work is focused on V2X protocols and Machine Learning for vehicle cooperation.   
+I love playing guitar, reading books, hiking, and skiing in my free time. 
 
-## Highlighted Skills
-* Machine Learning
-* Neural Networks
-* V2X
+## Programming Skills
 * Python
-  * Numpy, Scipy, Pandas, Pytorch, Matplotlib
-* C/C++
-* SUMO
-* SQL
-* NoSQL
+* C++
+* C
+* Go
+* SQL and NoSQL
+* Javascript
 
-## Main Projects
+# Programming and Software Frameworks
+* Numpy, Scipy, Pandas, Pytorch, Matplotlib
+* SUMO
+* ns3
+* CARLA
+
+## Main Projects I am working on
 
 <a href="https://github.com/Diegomangasco/ms-van3t" style="margin: 5px">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diegomangasco&repo=ms-van3t&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false" />
@@ -30,6 +34,13 @@ In my free time I love playing guitar, reading books, hiking and skiing.
 </a>
 <br/>
 <br/>
+<a href="https://github.com/Diegomangasco/OScar" style="margin: 5px">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diegomangasco&repo=OScar&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false" />
+</a>
+<br/>
+<br/>
+
+## Past Projects
 <a href="https://github.com/Diegomangasco/ARGO" style="margin: 5px">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diegomangasco&repo=ARGO&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false" />
 </a>
