@@ -12,7 +12,7 @@ I love playing guitar, reading books, hiking, and skiing in my free time.
 * Research
 * V2X
 * Machine Learning
-* Dana Analysis
+* Data Analysis
 
 ## Main Technologies 💻
 * Linux
