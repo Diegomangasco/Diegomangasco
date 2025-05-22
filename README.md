@@ -25,17 +25,17 @@ I love playing guitar, reading books, hiking, and skiing in my free time.
 ## Main Projects I am working on
 
 <a href="https://github.com/Diegomangasco/ms-van3t" style="margin: 5px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diegomangasco&repo=ms-van3t&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-van3t-devs&repo=ms-van3t&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false" />
 </a>
 <br/>
 <br/>
 <a href="https://github.com/Diegomangasco/TRACEN-X" style="margin: 5px">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diegomangasco&repo=TRACEN-X&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=drivex-devs&repo=TRACEN-X&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false" />
 </a>
 <br/>
 <br/>
 <a href="https://github.com/Diegomangasco/OScar" style="margin: 5px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diegomangasco&repo=OScar&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=drivex-devs&repo=OScar&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false" />
 </a>
 <br/>
 <br/>
