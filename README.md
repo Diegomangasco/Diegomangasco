@@ -16,10 +16,10 @@ I love playing guitar, reading books, hiking, and skiing in my free time.
 * SQL and NoSQL
 * Javascript
 
-# Programming and Software Frameworks
-* Numpy, Scipy, Pandas, Pytorch, Matplotlib
+# Frameworks and Libraries
+* Numpy, Pandas, Pytorch, Matplotlib
+* ns-3
 * SUMO
-* ns3
 * CARLA
 
 ## Main Projects I am working on
