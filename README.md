@@ -28,39 +28,39 @@ I love playing guitar, reading books, hiking, and skiing in my free time.
 ## Main Projects I am working on 👨‍💻
 
 <a href="https://github.com/DriveX-devs/VaN3Twin" style="margin: 5px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DriveX-devs&repo=VaN3Twin&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DriveX-devs&repo=VaN3Twin&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false&cache_seconds=86400" />
 </a>
 <br/>
 <br/>
 <a href="https://github.com/DriveX-devs/TRACEN-X" style="margin: 5px">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DriveX-devs&repo=TRACEN-X&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DriveX-devs&repo=TRACEN-X&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false&cache_seconds=86400" />
 </a>
 <br/>
 <br/>
 <a href="https://github.com/DriveX-devs/OScar" style="margin: 5px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DriveX-devs&repo=OScar&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DriveX-devs&repo=OScar&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false&cache_seconds=86400" />
 </a>
 <br/>
 <br/>
 
 ## Past Projects 👨‍💻
 <a href="https://github.com/Diegomangasco/ARGO" style="margin: 5px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diegomangasco&repo=ARGO&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diegomangasco&repo=ARGO&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false&cache_seconds=86400" />
 </a>
 <br/>
 <br/>
 <a href="https://github.com/DriveX-devs/ARGO-ToMove" style="margin: 5px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DriveX-devs&repo=ARGO-ToMove&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DriveX-devs&repo=ARGO-ToMove&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false&cache_seconds=86400" />
 </a>
 <br/>
 <br/>
 <a href="https://github.com/Diegomangasco/ProbeRequestGenerator" style="margin: 5px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diegomangasco&repo=ProbeRequestGenerator&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diegomangasco&repo=ProbeRequestGenerator&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false&cache_seconds=86400" />
 </a>
 <br/>
 <br/>
 <a href="https://github.com/Diegomangasco/Quarto" style="margin: 5px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diegomangasco&repo=Quarto&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diegomangasco&repo=Quarto&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false&cache_seconds=86400" />
 </a>
 <br/>
 <br/>
@@ -69,7 +69,7 @@ I love playing guitar, reading books, hiking, and skiing in my free time.
   
 [![Diegomangasco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diegomangasco&theme=dark)](https://github.com/Diegomangasco/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DiegomanGasco&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Diegomangasco&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **Diegomangasco/Diegomangasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
