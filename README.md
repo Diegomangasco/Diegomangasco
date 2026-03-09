@@ -27,48 +27,16 @@ I love playing guitar, reading books, hiking, and skiing in my free time.
 
 ## Main Projects I am working on 👨‍💻
 
-<a href="https://github.com/DriveX-devs/VaN3Twin" style="margin: 5px"/>
-<br/>
-<br/>
-<a href="https://github.com/DriveX-devs/TRACEN-X" style="margin: 5px"/>
-<br/>
-<br/>
-<a href="https://github.com/DriveX-devs/OScar" style="margin: 5px"/>
-<br/>
-<br/>
-<!--
-<a href="https://github.com/DriveX-devs/VaN3Twin" style="margin: 5px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DriveX-devs&repo=VaN3Twin&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false&cache_seconds=86400" />
-</a>
-<br/>
-<br/>
-
-<a href="https://github.com/DriveX-devs/TRACEN-X" style="margin: 5px">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DriveX-devs&repo=TRACEN-X&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false&cache_seconds=86400" />
-</a>
-<br/>
-<br/>
-<a href="https://github.com/DriveX-devs/OScar" style="margin: 5px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DriveX-devs&repo=OScar&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false&cache_seconds=86400" />
-</a>
-<br/>
-<br/>
--->
+- [VaN3Twin](https://github.com/DriveX-devs/VaN3Twin)
+- [TRACEN-X](https://github.com/DriveX-devs/TRACEN-X)
+- [OScar](https://github.com/DriveX-devs/OScar)
 
 ## Past Projects 👨‍💻
 
-<a href="https://github.com/Diegomangasco/ARGO" style="margin: 5px"/>
-<br/>
-<br/>
-<a href="https://github.com/DriveX-devs/ARGO-ToMove" style="margin: 5px"/>
-<br/>
-<br/>
-<a href="https://github.com/Diegomangasco/ProbeRequestGenerator" style="margin: 5px"/>
-<br/>
-<br/>
-<a href="https://github.com/Diegomangasco/Quarto" style="margin: 5px"/>
-<br/>
-<br/>
+- [ARGO](https://github.com/Diegomangasco/ARGO)
+- [ARGO-ToMove](https://github.com/DriveX-devs/ARGO-ToMove)
+- [ProbeRequestGenerator](https://github.com/Diegomangasco/ProbeRequestGenerator)
+- [Quarto](https://github.com/Diegomangasco/Quarto)
 
 <!--![Diegomangasco's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diegomangasco&hide=c%2B%2B&exclude_repo=PoliDOTS&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&layout=compact&custom_title=I%20code%20in...)-->
   
