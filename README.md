@@ -27,11 +27,22 @@ I love playing guitar, reading books, hiking, and skiing in my free time.
 
 ## Main Projects I am working on 👨‍💻
 
+<a href="https://github.com/DriveX-devs/VaN3Twin" style="margin: 5px"/>
+<br/>
+<br/>
+<a href="https://github.com/DriveX-devs/TRACEN-X" style="margin: 5px"/>
+<br/>
+<br/>
+<a href="https://github.com/DriveX-devs/OScar" style="margin: 5px"/>
+<br/>
+<br/>
+<!--
 <a href="https://github.com/DriveX-devs/VaN3Twin" style="margin: 5px">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DriveX-devs&repo=VaN3Twin&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false&cache_seconds=86400" />
 </a>
 <br/>
 <br/>
+
 <a href="https://github.com/DriveX-devs/TRACEN-X" style="margin: 5px">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DriveX-devs&repo=TRACEN-X&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false&cache_seconds=86400" />
 </a>
@@ -42,26 +53,20 @@ I love playing guitar, reading books, hiking, and skiing in my free time.
 </a>
 <br/>
 <br/>
+-->
 
 ## Past Projects 👨‍💻
-<a href="https://github.com/Diegomangasco/ARGO" style="margin: 5px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diegomangasco&repo=ARGO&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false&cache_seconds=86400" />
-</a>
+
+<a href="https://github.com/Diegomangasco/ARGO" style="margin: 5px"/>
 <br/>
 <br/>
-<a href="https://github.com/DriveX-devs/ARGO-ToMove" style="margin: 5px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DriveX-devs&repo=ARGO-ToMove&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false&cache_seconds=86400" />
-</a>
+<a href="https://github.com/DriveX-devs/ARGO-ToMove" style="margin: 5px"/>
 <br/>
 <br/>
-<a href="https://github.com/Diegomangasco/ProbeRequestGenerator" style="margin: 5px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diegomangasco&repo=ProbeRequestGenerator&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false&cache_seconds=86400" />
-</a>
+<a href="https://github.com/Diegomangasco/ProbeRequestGenerator" style="margin: 5px"/>
 <br/>
 <br/>
-<a href="https://github.com/Diegomangasco/Quarto" style="margin: 5px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diegomangasco&repo=Quarto&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&show_owner=false&cache_seconds=86400" />
-</a>
+<a href="https://github.com/Diegomangasco/Quarto" style="margin: 5px"/>
 <br/>
 <br/>
 
