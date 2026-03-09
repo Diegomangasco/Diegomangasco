@@ -38,9 +38,9 @@ I love playing guitar, reading books, hiking, and skiing in my free time.
 - [ProbeRequestGenerator](https://github.com/Diegomangasco/ProbeRequestGenerator)
 - [Quarto](https://github.com/Diegomangasco/Quarto)
 
-<!--![Diegomangasco's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diegomangasco&hide=c%2B%2B&exclude_repo=PoliDOTS&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&layout=compact&custom_title=I%20code%20in...)-->
+<!--![Diegomangasco's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diegomangasco&hide=c%2B%2B&exclude_repo=PoliDOTS&bg_color=35,0f234a,2e54ab&title_color=fff&text_color=fff&layout=compact&custom_title=I%20code%20in...)
   
-[![Diegomangasco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diegomangasco&theme=dark)](https://github.com/Diegomangasco/github-readme-stats)
+[![Diegomangasco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diegomangasco&theme=dark)](https://github.com/Diegomangasco/github-readme-stats)-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Diegomangasco&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
