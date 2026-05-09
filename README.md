@@ -34,7 +34,7 @@ I love playing guitar, reading books, hiking, and skiing in my free time.
 
 ## Past Projects 👨‍💻
 
-- [RoadEye](https://github.com/Diegomangasco/RoadEye)
+- [RoadEye](https://github.com/DriveX-devs/RoadEye)
 - [ARGO](https://github.com/Diegomangasco/ARGO)
 - [ARGO-ToMove](https://github.com/DriveX-devs/ARGO-ToMove)
 - [ProbeRequestGenerator](https://github.com/Diegomangasco/ProbeRequestGenerator)
