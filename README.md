@@ -17,6 +17,7 @@ I love playing guitar, reading books, hiking, and skiing in my free time.
 ## Main Technologies 💻
 * Linux
 * Python (Numpy, Pandas, Sklearn, PyTorch)
+* YOLO
 * C++
 * ns-3
 * SUMO
@@ -33,6 +34,7 @@ I love playing guitar, reading books, hiking, and skiing in my free time.
 
 ## Past Projects 👨‍💻
 
+- [RoadEye](https://github.com/Diegomangasco/RoadEye)
 - [ARGO](https://github.com/Diegomangasco/ARGO)
 - [ARGO-ToMove](https://github.com/DriveX-devs/ARGO-ToMove)
 - [ProbeRequestGenerator](https://github.com/Diegomangasco/ProbeRequestGenerator)
